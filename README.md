@@ -1,4 +1,4 @@
-# 🧪 Kubernetes Operator Hands On
+# 🧪 Gravitee Kubernetes Operator Hands On
 
 ![Gravitee.io](./.assets/gravitee-logo-cyan.svg)
 
